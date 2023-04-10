@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.965cd463.css",
+    "main.js": "/static/js/main.9ee8bd4f.js",
+    "static/js/787.50cf2bdd.chunk.js": "/static/js/787.50cf2bdd.chunk.js",
+    "static/media/PatuaOne-Regular.ttf": "/static/media/PatuaOne-Regular.a9f01afefe6f58c9aeb2.ttf",
+    "index.html": "/index.html",
+    "main.965cd463.css.map": "/static/css/main.965cd463.css.map",
+    "main.9ee8bd4f.js.map": "/static/js/main.9ee8bd4f.js.map",
+    "787.50cf2bdd.chunk.js.map": "/static/js/787.50cf2bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965cd463.css",
+    "static/js/main.9ee8bd4f.js"
+  ]
+}
